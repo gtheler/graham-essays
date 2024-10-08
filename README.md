@@ -6,7 +6,7 @@ A Unix-friendly way (less some Python, sorry about that) of
  2. converting them to Markdown, and
  3. generating both
     i. a PDF, and
-    ii an ePub
+    ii. an ePub
     
 > [!IMPORTANT]
 > If someone has an idea about how to remove the Python part, please let me know.
