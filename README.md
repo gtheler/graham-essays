@@ -11,6 +11,9 @@ A Unix-friendly way (less some Python, sorry about that) of
 > [!IMPORTANT]
 > If someone has an idea about how to remove the Python part, please let me know.
 
+> [!NOTE]
+> Some ideas about how to parse the article index have been taken from https://github.com/ofou/graham-essays
+
 ## Dependencies
 
  * a Bash-like shell 
@@ -24,6 +27,10 @@ A Unix-friendly way (less some Python, sorry about that) of
  * basename
  * XeLateX
 
+## License
+
+GPLv3+
+ 
 ## TODOs
 
  * duplicate identifiers
